@@ -1,0 +1,42 @@
+header {
+    background-color: black;
+
+
+}
+
+header nav {
+    color: whitesmoke;
+    margin: 10px;
+    align-items: center;
+
+}
+
+ul a {
+
+    color: whitesmoke;
+    margin: 10px;
+    align-items: center;
+
+}
+
+.cointeiner {
+
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+.chartImg {
+    padding: 0px;
+    margin-left: 25rem;
+
+
+
+}
+
+.title {
+
+    text-align: center;
+    color: whitesmoke;
+    padding: 1rem;
+
+}
